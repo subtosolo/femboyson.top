@@ -1,6 +1,6 @@
-# sizzzlent
+# femboyson.top
 
-quickly shorten your long ass links
+quickly shorten your links
 
 
 ### prerequisites
@@ -19,12 +19,12 @@ npm start
 ```
 ## deploy
 
-this repo is made in nodejs, which means you can only host this on a few platforms. i personally recommend [render](https://render.com/deploy?repo=https://github.com/szvy/sizzlent)
+this repo is made in nodejs, which means you can only host this on a few platforms. i personally recommend [render](https://render.com/deploy?repo=https://github.com/subtosolo/femboyson.top)
 
 
 ## credits
 
-* [szvy](https://github.com/szvy) - only developer lowkey
+* [solo](https://soloo.fun) - only developer lowkey
 * [tinyurl](https://tinyurl.com) - inspiration
 
 ## license
